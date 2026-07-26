@@ -1,0 +1,10 @@
+{
+  "description": "Streamline project collaboration by providing a platform for reviewing design specifications and business requirements, enhancing clarity and communication.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
